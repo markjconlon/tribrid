@@ -31,7 +31,7 @@ def fetch
 end
 
 def fetchTwo
-
+  #scenario two
 end
 
 def write_to_csv(data)
